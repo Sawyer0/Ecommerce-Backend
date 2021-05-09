@@ -1,6 +1,6 @@
 # E-Commerce BackEnd
 ## Description
-This application is comprised of many working parts that all seamlessly come together to build a polished application that seamlessly works with the databse to store and update data based of different CRUD functionality. 
+This application is comprised of many working parts that all seamlessly come together to build a polished application, that works with a databse to store and update data using CRUD functionality. 
 
 ## Table of Contents 
 - [Installation](#installation)
@@ -9,8 +9,6 @@ This application is comprised of many working parts that all seamlessly come tog
 - [Demo](#demo)
 - [Contribution](#contribution)
 - [License](#license) 
-
-
 
 ## Installation
 To install this repo clone the ssh key. Then you can  start working on this project. A npm inint -y will create your package.json file. The dependencies you will need to install are sequlize, express and dotenv. You will also need to have MySql, MySQL Workbench and Insomnia. From there you can start working on this project.
