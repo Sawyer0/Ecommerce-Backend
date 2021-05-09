@@ -1,7 +1,7 @@
 {
   "name": "module-13-challenge-orm",
   "version": "1.0.0",
-  "description": "",
+  "description": "This application is comprised of many working parts that all seamlessly come together to build a polished application that seamlessly works with the databse to store and update data based of different CRUD functionality.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
