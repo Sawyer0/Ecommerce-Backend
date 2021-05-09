@@ -3,7 +3,6 @@
 This application is comprised of many working parts that all seamlessly come together to build a polished application that seamlessly works with the databse to store and update data based of different CRUD functionality. 
 
 ## Table of Contents 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Installation](#installation)
 - [Deployment](#deployment)
 - [Features](#features)
@@ -25,10 +24,10 @@ To install this repo clone the ssh key. Then you can  start working on this proj
 - MySql/Sequelize 
 
 ## Demo 
-![alt text](images\Untitled.gif)
-![alt text](images\screenshot.png)
-![alt text](images\EcommerceScreenshot2.png)
-![alt text](images\EcommerceScreenshot3.png)
+![App Gif](images\Untitled.gif)
+![App Screenshot](images\screenshot.png)
+![App Screenshot 2](images\EcommerceScreenshot2.png)
+![App Screenshot 3](images\EcommerceScreenshot3.png)
 
 ## Contribution
 This repo welcomes all forks and contributions.
