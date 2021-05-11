@@ -22,11 +22,10 @@ To install this repo clone the ssh key. Then you can  start working on this proj
 - MySql/Sequelize 
 
 ## Demo 
-![App Gif](images\Untitled.gif)
-![App Screenshot](images\screenshot.png)
-![App Screenshot 2](images\EcommerceScreenshot2.png)
-![App Screenshot 3](images\EcommerceScreenshot3.png)
-
+![App Gif](Untitled.gif).
+![App Screenshot](screenshot.png)
+![App Screenshot2](EcommerceScreenshot2.png)
+![App Screenshot3](EcommerceScreenshot3.png)
 ## Contribution
 This repo welcomes all forks and contributions.
 
